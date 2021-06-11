@@ -1,7 +1,7 @@
 # Animated-Map
 We were set a task to create our own animated map in our MIT course for Week 9.
 
-What I did was use a map of Sydney provided by mapbox and what I did with it was, show the stops a train makes when departing from Central station and arriving at Cronulla sstation. Every 5000 ms, the marker will move down the train line. It's easy to follow and the map is zoomed out enough that you can easily follow it. 
+What I did was use a map of Sydney provided by mapbox and what I did with it was, show the stops a train makes when departing from Central station and arriving at Cronulla station. Every 5000 ms, the marker will move down the train line. It's easy to follow and the map is zoomed out enough that you can easily follow it. 
 
 This is for now just a basic and fun little task I had to do for my course, but as I become more experienced with working with API's, I will eventually expand on this and turn it into a live tracker, as I lack the knowledge to be able to do that at this current time. 
 
